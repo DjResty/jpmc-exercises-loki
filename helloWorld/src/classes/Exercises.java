@@ -15,7 +15,7 @@ import static java.util.Collections.shuffle;
 /**
  * Created by nxtlvl on 9/30/2016.
  */
-public class Exercises {
+public class Exercises extends Person{
 
     /**
      *  VARIABLES
